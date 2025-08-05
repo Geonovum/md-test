@@ -60,7 +60,7 @@ Deze vergen volledige afstemming en het doorlopen van alle in paragraaf 2.4 besc
 <b>Proces voor Z wijzigingen</b>
 Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats door middel van een (beperkte) consultatie in het standaardenteam van Geonovum en met gebruikers en ketenpartners. Besluitvorming vindt plaats door het standaardenteam van Geonovum met een notificatie van de wijziging aan de Programmaraad. Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum.
 ## Betrokkenen {#446369FA}
-De volgende groepen van gebruikers en ketenpartners zijn betrokken bij het wijzigingsproces van een geo-standaard:
+De volgende groepen (zie <a href='#d5e909'>Figuur 1</a>) van gebruikers en ketenpartners zijn betrokken bij het wijzigingsproces van een geo-standaard:
 <ul><li>Werkgroep;</li>
 <li>Softwareleveranciers;</li>
 <li>Regie-overleg geo-standaarden </li>
@@ -69,7 +69,7 @@ De volgende groepen van gebruikers en ketenpartners zijn betrokken bij het wijzi
 </ul>
 <br/>
 <br/>
-<figure><img src='media/image1.jpeg' alt='Picture 5' style='width: 100%;'></img>
+<figure id='d5e909'><img src='media/image1.jpeg' alt='Picture 5' style='width: 100%;'></img>
 <figcaption>Regie-overleg geo-standaarden rol bij wijzigingen van geo-standaarden</figcaption></figure>
 
 <br/>

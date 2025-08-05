@@ -1,6 +1,5 @@
 # Bijlage Overzicht status van wijzigingsverzoeken {#6C0DACDA}
-<table style='width: 100%;'><caption></caption>
-<colgroup><col id='col1' style='width: 50%;'>
+<table id='d5e1827' style='width: 100%;'><colgroup><col id='col1' style='width: 50%;'>
 <col id='col2' style='width: 50%;'>
 </colgroup>
 <tbody><tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='203EAD4F'><br/>
