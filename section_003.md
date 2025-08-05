@@ -11,8 +11,8 @@ Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvormi
 <br/>
 <br/>
 
-<figure><img src='media/image2.png' alt='Fasen wijzigingsproces' style='width: 34.85707672723064%;'></img>
-<figcaption>Fasen wijzigingsproces</figcaption></figure> {#d5e1126}
+<figure id="d5e1126"><img src='media/image2.png' alt='Fasen wijzigingsproces' style='width: 34.85707672723064%;'></img>
+<figcaption>Fasen wijzigingsproces</figcaption></figure>
 
 <b>Inhoud</b>
 In de fase Inhoud wordt voor iedere melding bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. Dit wordt vastgelegd met behulp van GitHub of een andere issue tracker en is zichtbaar via de website van Geonovum. Voor meldingen die worden meegenomen in de nieuwe versie van de standaard, worden oplossingen uitgewerkt, op basis waarvan vervolgens de specificatie wordt aangepast. Dit gebeurt door Geonovum in samenwerking met inhoudelijke experts. Afhankelijk van de omvang van de wijziging ten opzichte van de voorgaande versie is de groep van experts evenredig groter of kleiner.
